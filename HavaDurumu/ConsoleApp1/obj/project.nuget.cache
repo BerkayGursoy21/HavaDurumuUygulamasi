@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONuPqWlR3qWJdwQk4evfCogJ9gp0IChwhzZcVzezkwSxo9I1byvcgZJgCM/QiG2VpXXNo/2Qvx3pGshZ3Vuv6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berka\\OneDrive\\Masaüstü\\ConsoleApp1\\ConsoleApp1\\WeatherProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berka\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
